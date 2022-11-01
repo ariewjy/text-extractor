@@ -1,2 +1,5 @@
 libgl1
-poppler
+poppler-utils
+cmake
+pkg-config
+libpoppler-cpp-dev

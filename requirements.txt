@@ -6,3 +6,5 @@ pytesseract==0.3.10
 streamlit==1.14.0
 tabula==1.0.5
 tabula_py==2.5.1
+python_poppler==0.2.2
+gTTS==2.2.2
