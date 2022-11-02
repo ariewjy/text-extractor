@@ -3,4 +3,5 @@ poppler-utils
 cmake
 pkg-config
 libpoppler-cpp-dev
-pytesseract
+tesseract-ocr
+libtesseract-dev
