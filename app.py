@@ -71,7 +71,7 @@ if mode == 'image':
 if file:
   st.image(img)
   img = np.array(img)
-  st.write(img.shape)
+  # st.write(img.shape)
   st.subheader('Before')
   height_img, width_img, _ = img.shape #setting up height, width images
   
